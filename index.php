@@ -9,7 +9,7 @@
   <body>
   <!--inicio do formulario-->
   <form action="login.php" class="container card p-3 m-3" method="post">
-    <h1 class="text-center">Faça seu login abaixo:</h1>
+    <h1 class="text-center">Login</h1>
     <div class="mb-3">
        <label for="nome" class="form-label">nome</label>
        <input type="text"  name= "nome" class="form-control" id="nome">
